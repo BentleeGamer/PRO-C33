@@ -37,7 +37,7 @@ function setup() {
 function draw() {
   background("black");
   textSize(20)
-  text("score:"+score,10,40);
+  text("Score:"+score,10,40);
   text(" 500 ", 20, 550);
   text(" 500 ", 100, 550);
   text(" 500 ", 180, 550);
